@@ -1,15 +1,12 @@
 @@*.flyme.cn
 @@*.myapp.com
-@@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
 @@bit.ly
 @@broadcastlv.chat.bilibili.com^
 @@cdn.*.qq.com
 @@down.360safe.com^
 @@goo.gl
-@@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
 @@guoqiangti.cf
-@@https://static.ws.126.net/163/frontend/libs/antanalysis.min.js
 @@m.video.xiaomi.com
 @@mp4.ts
 @@nileapi.market.xiaomi.com
