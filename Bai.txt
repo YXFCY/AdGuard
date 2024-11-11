@@ -1149,7 +1149,6 @@
 @@||ad-log-upload.mihoyo.com^
 @@||ad.mcloud.139.com^$important
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
-@@||adashx.m.taobao.com^$important
 @@||adidasapp.api.adidas.com.cn^$important
 @@||adl.windows.com^$important
 @@||admin.microsoft.com^$important
@@ -2137,7 +2136,6 @@
 @@||puui.qpic.cn^$important
 @@||pv.sohu.com^$important
 @@||pvip.funshion.com^
-@@||px.wpk.quark.cn^$important
 @@||q3.jia.360.cn^$important
 @@||qappcenterv6.3g.qq.com^$important
 @@||qhres2.com^
@@ -2149,7 +2147,6 @@
 @@||qqvip-web.cdn-go.cn^
 @@||quan.suning.com^$important
 @@||quapp.shenbabao.com^$important
-@@||quark.cn^$important
 @@||quark.sm.cn^$important
 @@||qun.qzone.qq.com^$important
 @@||quoracdn.net^
@@ -2230,7 +2227,6 @@
 @@||sjh.baidu.com^
 @@||skl.apple.com^$important
 @@||sl.hpplay.cn^
-@@||sm.cn^$important
 @@||smart.360.cn^
 @@||smoot.apple.com^$important
 @@||smsks1.cmpassport.com^$important
